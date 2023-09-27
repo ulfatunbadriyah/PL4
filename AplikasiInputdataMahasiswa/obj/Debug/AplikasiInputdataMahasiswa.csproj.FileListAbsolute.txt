@@ -1,0 +1,10 @@
+E:\22.11.4824\Pertemuan04\AplikasiInputdataMahasiswa\bin\Debug\AplikasiInputdataMahasiswa.exe.config
+E:\22.11.4824\Pertemuan04\AplikasiInputdataMahasiswa\bin\Debug\AplikasiInputdataMahasiswa.exe
+E:\22.11.4824\Pertemuan04\AplikasiInputdataMahasiswa\bin\Debug\AplikasiInputdataMahasiswa.pdb
+E:\22.11.4824\Pertemuan04\AplikasiInputdataMahasiswa\obj\Debug\AplikasiInputdataMahasiswa.csprojAssemblyReference.cache
+E:\22.11.4824\Pertemuan04\AplikasiInputdataMahasiswa\obj\Debug\AplikasiInputdataMahasiswa.Form1.resources
+E:\22.11.4824\Pertemuan04\AplikasiInputdataMahasiswa\obj\Debug\AplikasiInputdataMahasiswa.Properties.Resources.resources
+E:\22.11.4824\Pertemuan04\AplikasiInputdataMahasiswa\obj\Debug\AplikasiInputdataMahasiswa.csproj.GenerateResource.cache
+E:\22.11.4824\Pertemuan04\AplikasiInputdataMahasiswa\obj\Debug\AplikasiInputdataMahasiswa.csproj.CoreCompileInputs.cache
+E:\22.11.4824\Pertemuan04\AplikasiInputdataMahasiswa\obj\Debug\AplikasiInputdataMahasiswa.exe
+E:\22.11.4824\Pertemuan04\AplikasiInputdataMahasiswa\obj\Debug\AplikasiInputdataMahasiswa.pdb
